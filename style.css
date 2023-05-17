@@ -1,0 +1,92 @@
+/* This is num class. */
+.num1 {
+  color: rgb(58, 58, 58);
+  font-size: 20px;
+  position: absolute;
+  padding-left: 10px;
+}
+.num2 {
+  color: rgb(0, 131, 50);
+  font-size: 20px;
+  position: absolute;
+  padding-left: 10px;
+}
+.num3 {
+  color: rgb(58, 58, 58);
+  font-size: 20px;
+  position: absolute;
+  padding-left: 10px;
+}
+.headerpart {
+  box-shadow: 1px 1px 2px 2px rgb(199, 195, 195);
+  margin: auto;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  margin-top: 100px;
+  width: 700px;
+  height: 50px;
+}
+.firstheading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  /* padding-top: 10px; */
+  position: absolute;
+  padding-left: 70px;
+  font-weight: bold;
+  font-size: 20px;
+}
+.secheading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  padding-left: 70px;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(0, 131, 50);
+}
+.firstpara {
+  font-family: sans-serif;
+  padding-top: 60px;
+  padding-right: 60px;
+  line-height: 1.5;
+  padding-left: 70px;
+}
+ul {
+  padding-left: 85px;
+  font-family: sans-serif;
+  color: rgb(52, 51, 51);
+  line-height: 1.5;
+}
+.mainpart {
+  box-shadow: 1px 1px 2px 2px rgb(199, 195, 195);
+  border-top: 5px solid rgb(0, 131, 50);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  margin: auto;
+  margin-top: 20px;
+  width: 700px;
+  height: 300px;
+}
+/* This is footer part. */
+.footerpart {
+  box-shadow: 1px 1px 2px 2px rgb(199, 195, 195);
+  margin: auto;
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  margin-top: 20px;
+  width: 700px;
+  height: 50px;
+}
+.thirdheading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  padding-left: 70px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+svg {
+  padding-top: 20px;
+  padding-right: 10px;
+
+  height: 20px;
+  width: 20px;
+}
